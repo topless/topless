@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Thats right, I am mr. topless.
+### Thats right, I am mr. topless.
 <!--
 **topless/topless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
