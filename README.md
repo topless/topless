@@ -1,4 +1,4 @@
-### 🇬🇷 Greek Inventions with 🇩🇰 Scandinavian Design and 🇨🇭 Swiss Quality.
+### 🇬🇷 Greek Inventions with 🇩🇰 Danish Design and 🇨🇭 Swiss Quality.
 <!--
 **topless/topless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
