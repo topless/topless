@@ -1,4 +1,4 @@
-### 🇬🇷 Greek Inventions with 🇩🇰 Danish Design and 🇨🇭 Swiss Quality.
+### Hello world!
 <!--
 **topless/topless** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
